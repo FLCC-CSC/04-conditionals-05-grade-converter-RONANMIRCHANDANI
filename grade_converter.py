@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Ronan Mirchandani
+# DATE: 10/1/25
+# BRIEF DESCRIPTION: Grade to Letter scale. 
 
 
 
@@ -30,7 +30,7 @@ elif percent >= 70:
 elif percent >= 65:
     print('D')
 else:
-    print('F')
+    print('F') 
 
 ########### END YER CODE ABOVE THIS LINE ###########
 
@@ -86,7 +86,7 @@ D
    doing this lab?
 
 
-
+Dont just use if statements. Also use the elif statements.
 
 
 
